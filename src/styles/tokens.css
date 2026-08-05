@@ -1,0 +1,39 @@
+:root {
+  --color-cream-50: #fbf6ea;
+  --color-cream-100: #f4ecdd;
+  --color-cream-200: #e9dfcf;
+  --color-green-950: #11170d;
+  --color-green-900: #0e170c;
+  --color-green-800: #243a1d;
+  --color-green-700: #36552c;
+  --color-green-300: #a6bc83;
+  --color-green-200: #c3d1aa;
+  --color-yellow-400: #f5c53a;
+  --color-ink-950: #241f18;
+  --color-ink-700: #59544c;
+  --color-white: #ffffff;
+  --color-white-warm: #fffdf7;
+
+  --font-display: 'DM Serif Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+  --font-script: 'Lora', Georgia, serif;
+
+  --content-max: 1200px;
+  --content-narrow: 820px;
+  --section-space: clamp(4rem, 8vw, 8rem);
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --radius-card: 18px;
+  --radius-pill: 999px;
+  --border-thin: 1px;
+  --overlay-dark: rgba(9, 13, 8, 0.72);
+  --shadow-card: 0 24px 46px rgba(23, 29, 19, 0.15);
+  --shadow-modal: 0 28px 80px rgba(10, 13, 8, 0.34);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
